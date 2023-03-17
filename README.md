@@ -22,9 +22,10 @@
 
 <li>Para ver los procesos realizados sería: git log --oneline --decorate --all.</li>
 
-<li>Para cambiar la foto de git hub nos metemos en profile settings y edit picture.</li>
+<li>Para cambiar la foto de git hub nos metemos en profile settings y edit picture.
 
-<img src="
+<img src="https://github.com/Juanma104/masteruah/blob/main/profile.png"></li>
+    
 
 <li>Nos vamos a authentication 2 fases, recibimos sms, descargamos recovery code y ya estaría.</li>
 
