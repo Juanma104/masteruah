@@ -64,3 +64,17 @@
   
  <li> Seguir gente:</li>
     <img src="https://github.com/Juanma104/masteruah/blob/main/seguir.png">
+    
+  <li> Admin y Colaboradores</li>
+  <img src="https://github.com/Juanma104/masteruah/blob/main/ADMIN%20Y%20COLAB.png">
+  <li>Fork </li>
+  <img src="https://github.com/Juanma104/masteruah/blob/main/fork.png">
+  <li>Index</li>  
+  <img src="https://github.com/Juanma104/masteruah/blob/main/inde.png">
+            
+  <li>Pull request</li>  
+    <img src="https://github.com/Juanma104/masteruah/blob/main/v%20pull%20request.png">
+    <img src="https://github.com/Juanma104/masteruah/blob/main/Pull%20request.png">
+    <img src="https://github.com/Juanma104/masteruah/blob/main/Cambio%20pull.png">
+    <img src="https://github.com/Juanma104/masteruah/blob/main/Cambio%20hecho%20de%20pull.png">
+               
