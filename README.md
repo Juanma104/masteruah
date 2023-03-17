@@ -22,26 +22,25 @@
 
 <li>Para ver los procesos realizados sería: git log --oneline --decorate --all.</li>
 
-<li>Para cambiar la foto de git hub nos metemos en profile settings y edit picture.
+<li>Para cambiar la foto de git hub nos metemos en profile settings y edit picture.</li>
 
-<img src="https://github.com/Juanma104/masteruah/blob/main/profile.png"></li>
+<img src="https://github.com/Juanma104/masteruah/blob/main/profile.png"/>
     
 
 <li>Nos vamos a authentication 2 fases, recibimos sms, descargamos recovery code y ya estaría.
-   <img src= "https://github.com/Juanma104/masteruah/blob/main/Captura%20de%20pantalla%202023-03-15%20184540.png"</li>
+   <img src= "https://github.com/Juanma104/masteruah/blob/main/Captura%20de%20pantalla%202023-03-15%20184540.png"/></li>
 
 
 
-<li>Añadir clave pública: creamos carpeta en usuario llamada .shh hacemos cd en ella y ssh-keygen y hacemos ls y copiamos la información.
-    <img src=  "https://github.com/Juanma104/masteruah/blob/main/Clave%20publica.png"> </li>
+<li>Añadir clave pública: creamos carpeta en usuario llamada .shh hacemos cd en ella y ssh-keygen y hacemos ls y copiamos la información.</li>
+    <img src="https://github.com/Juanma104/masteruah/blob/main/Clave%20publica.png"/> 
     
-    <li> Seguir gente. </li>
-    <img src="https://github.com/Juanma104/masteruah/blob/main/seguidos%20en%20git.png">
     
  
-<li>Following y estrella:  <img src="https://github.com/Juanma104/masteruah/blob/main/estrella.png"> </li>
+<li>Following y estrella:</li>  
+   <img src="https://github.com/Juanma104/masteruah/blob/main/estrella.png"> 
 
-<li>TABLA</li>
+<li>TABLA
 <table>
   <tr>
       <th>NOMBRE<th>
@@ -57,8 +56,11 @@
     <tr>
       <th>Pablo<th><th>https://github.com/PabloTorr03<th>
   </tr>
-  
+    </table>
+    </li>
+    
   <li>COLABORADOR</li>
   <img src="https://github.com/Juanma104/masteruah/blob/main/colaborador.png">
   
-  <li>COLABORADOR</li>
+ <li> Seguir gente:</li>
+    <img src="https://github.com/Juanma104/masteruah/blob/main/seguir.png">
