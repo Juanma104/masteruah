@@ -30,41 +30,18 @@
 <li>Nos vamos a authentication 2 fases, recibimos sms, descargamos recovery code y ya estaría.
    <img src= "https://github.com/Juanma104/masteruah/blob/main/Captura%20de%20pantalla%202023-03-15%20184540.png"</li>
 
+
+
 <li>Añadir clave pública: creamos carpeta en usuario llamada .shh hacemos cd en ella y ssh-keygen y hacemos ls y copiamos la información.
-    <img src=     </li>
+    <img src=  "https://github.com/Juanma104/masteruah/blob/main/Clave%20publica.png"> </li>
+    
+    <li> Seguir gente. </li>
+    <img src="https://github.com/Juanma104/masteruah/blob/main/seguidos%20en%20git.png">
+    
+ 
+<li>Following y estrella:  <img src="https://github.com/Juanma104/masteruah/blob/main/estrella.png"> </li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li>TABLA</li>
 <table>
   <tr>
       <th>NOMBRE<th>
@@ -72,8 +49,16 @@
   </tr>
   
   <tr>
-      <th>Alex<th>
-      <th>Lin<th>
+      <th>Alex<th><th>https://github.com/AlexSancheez02<th>
+  </tr>
+    <tr>
+      <th>Alvaro<th><th>https://github.com/alvarolope28<th> 
+  </tr>
+    <tr>
+      <th>Pablo<th><th>https://github.com/PabloTorr03<th>
   </tr>
   
+  <li>COLABORADOR</li>
+  <img src="https://github.com/Juanma104/masteruah/blob/main/colaborador.png">
   
+  <li>COLABORADOR</li>
