@@ -27,9 +27,11 @@
 <img src="https://github.com/Juanma104/masteruah/blob/main/profile.png"></li>
     
 
-<li>Nos vamos a authentication 2 fases, recibimos sms, descargamos recovery code y ya estaría.</li>
+<li>Nos vamos a authentication 2 fases, recibimos sms, descargamos recovery code y ya estaría.
+   <img src= "https://github.com/Juanma104/masteruah/blob/main/Captura%20de%20pantalla%202023-03-15%20184540.png"</li>
 
-14 Añadir clave pública: creamos carpeta en usuario llamada .shh hacemos cd en ella y ssh-keygen y hacemos ls y copiamos la info.
+<li>Añadir clave pública: creamos carpeta en usuario llamada .shh hacemos cd en ella y ssh-keygen y hacemos ls y copiamos la información.
+    <img src=     </li>
 
 
 
